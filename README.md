@@ -11,9 +11,5 @@ the practice of concealing messages or information within other nonsecret text o
 ## Purpose
 ColorCypt is meant to take txt files, hash them with salt, then convert those hashes into png images.
 
-## TODO: 
-  * [] Re-write code
-    - [] make it more readable, faster, and easier to use
-  * [] Give user the choice to have file transperent or not 
-  * [] make GUI?
-  * [] redesign the encryption system
+## NOTE
+This version of ColorCrypt is out of date and should not be used for securing anything of importance! However, ColorCrypt 2.0 is in development and will now be developed in C rather then Python.
