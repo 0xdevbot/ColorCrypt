@@ -12,4 +12,4 @@ the practice of concealing messages or information within other nonsecret text o
 ColorCypt is meant to take txt files, hash them with salt, then convert those hashes into png images.
 
 ## NOTE
-This version of ColorCrypt is out of date and should not be used for securing anything of importance! However, ColorCrypt 2.0 is in development and will now be developed in C rather then Python.
+This version of ColorCrypt is out of date and should not be used for securing anything of importance! However, ColorCrypt 2.0 is in development and will now be developed in C rather then Python. It will also feature a whole host of new features to include but not limited to time-based encryption, p2p transfers, and a fun little bit of blockchain tech. 
